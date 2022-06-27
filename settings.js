@@ -2,7 +2,7 @@
 
 //
 
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              🐉S2Ş SERHAT🐲 Bot 𝓫𝔂 🐉
 
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 
@@ -39,55 +39,55 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['S2Ş X🐲🐲']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🐉S2Ş SERHAT🐲 Bot']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+447441410465'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = '🐉S2Ş SERHAT🐲 Bot'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🐉S2Ş SERHAT🐲 Bot'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©🐉S2Ş SERHAT🐲.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://www.instagram.com/zalioos/'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.sc = 'https://www.instagram.com/zalioos/'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://www.instagram.com/zalioos/'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🐉S2Ş SERHAT🐲 Bot'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🐉S2Ş SERHAT🐲 Bot'
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','❄','🖤','☃']
+global.prefa = ['','!','.','🐉','🐲','🐉']
 
 global.sp = '◈'
 
 global.mess = {
 
-    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
+    success: 'Done ✓🐉🐲',
 
     admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
 
-    botAdmin: 'Bot Must Be Admin First!❤️⃟✦⃝̮̮̮̯̯̯😌',
+    botAdmin: 'Bot Must Be Admin First!🐲✦⃝̮̮̮̯̯̯🐉',
 
-    owner: 'This Feature Is Only For Owner😯⃟💦᭄᭄̊̊̊̊࿔!',
+    owner: 'This Feature Is Only For Owner🐲!',
 
-    group: 'Feature Used Only For Groups!😒⃝⃟ꦾ👌ꦿ',
+    group: 'Feature Used Only For Groups!🐲,
 
-    private: 'Features Used Only For Private Chat😯⃟💦᭄᭄̊̊̊̊࿔!',
+    private: 'Features Used Only For Private Chat🐲!',
 
-    bot: 'This Feature Is Only For Bot❤️⃝➤⃟̱̱̱̱̄̄̄̄😢',
+    bot: 'This Feature Is Only For Bot🐉➤⃟̱̱̱̱̄̄̄̄🐉',
 
-    wait: 'Wait A minute...🦋⃝❉⃟࿔ꦿ',
+    wait: 'Wait A minute...🐲❉⃟࿔ꦿ',
 
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'Error! Maybe Api Key Is Expired🐉!',
 
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 
@@ -119,7 +119,7 @@ global.mess = {
 
 }
 
-global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.thumb = fs.readFileSync('./GojoMedia/🐉.jpg')
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
